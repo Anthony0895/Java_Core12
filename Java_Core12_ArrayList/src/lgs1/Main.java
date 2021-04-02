@@ -9,8 +9,8 @@ public class Main {
 	public static void main(String[] args) {
 		Random rand = new Random();
 		
-		ArrayList <Auto> auto = new ArrayList <Auto>(20);
-		ArrayList <String> material = new ArrayList <String>(2);
+		ArrayList <Auto> auto = new ArrayList <Auto>();
+		ArrayList <String> material = new ArrayList <String>();
 		material.add("Leather");
 		material.add("Alcantara");
 		
